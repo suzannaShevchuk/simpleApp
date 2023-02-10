@@ -1,0 +1,12 @@
+.registerCard{
+    max-width: 50%;
+    min-width: 20%;
+    margin: 40px auto 50px auto;
+    overflow: hidden;
+}
+
+.registerForm{
+    max-width: 90%;
+    margin: 25px auto 10px auto;
+
+}

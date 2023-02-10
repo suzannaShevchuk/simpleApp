@@ -1,0 +1,12 @@
+.loginCard{
+    max-width: 50%;
+    min-width: 20%;
+    margin: 70px auto 50px auto;
+    overflow: hidden;
+}
+
+.loginForm{
+    max-width: 90%;
+    margin: 25px auto 10px auto;
+
+}
